@@ -1,27 +1,28 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnFiazFuYmxrNGl4cnlsdjVnMGxuc2dqbnR3YW84bWxvNmI4ZWVyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp" width="300"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/aryan-mishra-78205129a/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Badge" width="70" height="70"/>
     </a>
+    <div>
+      LinkedIn Profile
+    </div>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=AZREAL-08&style=flat-square&color=blue" alt=""/>
   <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Hey There
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGc3YXZwYmY5ajYzdWljNTJoczMzczltamx4dHdnbGh4cnozNnZpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.webp" width="50px"/>
+    <div>
+    Welcome to the profile
+    </div>
   </h1>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
 
 ### :man_technologist: About Me : 
-I am an aspiring Web3 enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I'm Aryan Mishra, a passionate blockchain, Web3, and cybersecurity enthusiast from India.<img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="30"> I love exploring cutting-edge technologies, solving complex challenges, and contributing to innovative projects. Let's build the future of tech together! 🚀
 
 ### Languages and Tools:
 
@@ -43,5 +44,9 @@ I am an aspiring Web3 enthusiast <img src="https://media.giphy.com/media/WUlplcM
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AZREAL-08&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AZREAL-08&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<div>
+  <img src="https://komarev.com/ghpvc/?username=AZREAL-08&style=flat-square&color=blue" alt=""/>
+</div>
 
 ---
